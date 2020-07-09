@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Home-work6</string>
+    <string name="about_app">Hello World!</string>
+    <string name="product">Product</string>
+    <string name="services">Services</string>
+    <string name="about_applications">About applications</string>
+    <string name="wristwatch1">Наручные часы DKNY NY2342</string>
+    <string name="wristwatch3">Наручные часы DKNY NY2745</string>
+    <string name="wristwatch2">Наручные часы DKNY NY2760</string>
+    <string name="about_product">Приложение создано ради продажи и доставки часов!Прозьба оставить номер теелфона для обратной связи. Приятной покупки!</string>
+</resources>
